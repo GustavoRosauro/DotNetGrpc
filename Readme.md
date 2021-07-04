@@ -1,4 +1,4 @@
-# Commands to add in Client Application
+# Commands to add in Consumer Application
 
 ## Introduction
 
