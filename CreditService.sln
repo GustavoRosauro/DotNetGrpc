@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditService", "CreditService\CreditService.csproj", "{8A8F4109-5F0D-47D9-83A9-A12F71249435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditConsumer", "CreditConsumer\CreditConsumer.csproj", "{AEA82CD9-FF06-437A-B35D-366A4E1CD604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8F4109-5F0D-47D9-83A9-A12F71249435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8F4109-5F0D-47D9-83A9-A12F71249435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8F4109-5F0D-47D9-83A9-A12F71249435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8F4109-5F0D-47D9-83A9-A12F71249435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA82CD9-FF06-437A-B35D-366A4E1CD604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA82CD9-FF06-437A-B35D-366A4E1CD604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA82CD9-FF06-437A-B35D-366A4E1CD604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA82CD9-FF06-437A-B35D-366A4E1CD604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFFDB973-41C7-408D-8606-D4523FA750E7}
+	EndGlobalSection
+EndGlobal
